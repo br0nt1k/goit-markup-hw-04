@@ -404,7 +404,13 @@ button {
     color: #f4f4fd;
     margin-right: 120px;
 }
-.footer.container{
+.footer-container{
     display: flex;
     align-items: baseline;
+}
+.footer-icon{
+    fill: #f4f4fd;
+}
+.footer-icons:hover,.footer-icons:focus{
+    background-color: #31d0aa;
 }
